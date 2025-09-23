@@ -1,0 +1,6 @@
+# Core Python libraries for data analysis
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
